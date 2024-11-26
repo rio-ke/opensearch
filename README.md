@@ -1,7 +1,4 @@
 # opensearch
-log-monitor
 
-Passwd
-```key
-Password@192939
-```
+* Log monitor for syslog server
+* Install Fluent-bit for opensearch in rsyslog server
